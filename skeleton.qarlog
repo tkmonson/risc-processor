@@ -1,0 +1,57 @@
+Quartus Prime Archive log --	C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/skeleton.qarlog
+
+Archive:	C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/skeleton.qar
+Date:		Sat Dec 10 21:16:26 2016
+Quartus Prime		16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/I2C_AV_Config.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/I2C_Controller.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/VGA_Audio_PLL.qip
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/VGA_Audio_PLL.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/audio3.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/audio_clock.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/audio_converter.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/hex_7seg.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/reset_delay.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/audio3/sine_table.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/Altera_UP_PS2_Command_Out.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/Altera_UP_PS2_Data_In.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/Hexadecimal_To_Seven_Segment.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/PS2_Controller.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/PS2_Interface.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/Waveform.vwf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/assignment_defaults.qdf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/dmem.cmp
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/dmem.mif
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/dmem.qip
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/dmem.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/dmem_inst.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/imem.cmp
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/imem.mif
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/imem.qip
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/imem.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/imem_inst.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/img_bars.mif
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/img_data.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/img_data_logo.mif
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/img_index.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/index.mif
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/index_logo.mif
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/lcd.sv
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/output_files/Chain1.cdf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/pll.bsf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/pll.cmp
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/pll.ppf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/pll.qip
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/pll.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/processor_tkm19.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/skeleton.qpf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/skeleton.qsf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/skeleton.v
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/skeleton_assignment_defaults.qdf
+C:/Users/Tommy/Dropbox/Duke Third Year/ECE350/Project/tommy_dhruv/video_sync_generator.v
+	======= Total: 46 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

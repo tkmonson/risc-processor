@@ -1,0 +1,31 @@
+main: bne $r0, $r2, effects
+lw $r4, 0($r1)
+j main
+
+effects:addi $r3, $r0, 2
+blt $r2, $r3, octaveup
+addi $r3, $r3, 1
+blt $r2, $r3, octavedown
+addi $r3, $r3, 1
+ble $r2, $r3, vibrato
+
+octaveup: lw $r4, 0($r1)
+addi $r5, $r2, 0
+uploop: bne $r2, $r5, main
+mult $r6, $r4, 2
+j uploop
+
+octavedown: lw $r4, 0($r1)
+addi $r5, $r2, 0
+downloop: bne $r2, $r5, main
+div $r6, $r4, 2
+j uploop
+
+vibrato: lw $r4, 0($r1)
+addi $r5, $r2, 0
+vibloop: bne $r2, $r5, main
+addi $r4, $r4, 8
+addi $r4, $r4, -8
+addi $r4, $r4, -8
+addi $r4, $r4, 8
+j vibloop
